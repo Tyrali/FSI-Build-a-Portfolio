@@ -1,0 +1,82 @@
+
+
+    .parallax {
+            
+    background-image: url("images/1028801.jpg");
+    
+    min-height: 100%;
+    min-width: 100%;
+
+     
+     background-attachment: fixed;
+     background-position:center;
+     background-repeat: no-repeat;
+     background-size:cover;
+    }
+      body {
+                      
+        text-align: center;
+      }
+      
+      h1{
+        font-family: 'Mochiy Pop P One', sans-serif;
+        font-size: 70px;
+        color: white;
+        text-shadow: 6px 6px 6px #000000;
+
+      }
+      
+      h2{
+        font-family: 'Mochiy Pop P One', sans-serif;
+        color: white;
+        font-size: 26px;
+        text-shadow: 6px 6px 6px #000000;
+     }
+
+     h3{
+      font-family: 'Mochiy Pop P One', sans-serif;
+      color: white;
+      font-size: 26px;
+      text-shadow: 6px 6px 6px #000000;
+     }
+
+    p{
+      font-family: 'Montserrat', sans-serif;
+      color: white;
+      font-size: 25px;
+      text-shadow: 6px 6px 6px #000000;
+      margin-left: 10%;
+      margin-right: 10%;
+      
+    }
+
+             
+
+    .center {
+    text-align: center;
+    list-style-position: inside;
+    }
+
+    ol.center li {
+    text-align: left;
+    margin-left: 29%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+    color: white;
+    text-shadow: 6px 6px 6px #000000;
+    }
+    
+    img {
+      border: 10px solid rgb(255, 255, 255);
+
+    }
+    
+    q{
+      font-family: 'Montserrat', sans-serif;
+      font-size: 25px;
+      color: white;
+      text-shadow: 6px 6px 6px #000000;
+    }
+
+
+    
